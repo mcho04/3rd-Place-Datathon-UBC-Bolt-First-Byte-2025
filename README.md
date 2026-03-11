@@ -33,7 +33,7 @@ Proposed three main strategies:
 
 🔗 Explore More
 
-View the interactive visualizations on my Tableau Public Profile:
+View visualizations on my Tableau Public Profile:
 https://public.tableau.com/app/profile/minhyeok.cho5950/vizzes
 
 —or— check out the tableau_visualization folder in this repository.
